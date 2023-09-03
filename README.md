@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Er3nest
 - 👀 I’m interested in Data Analytics.
 - 🌱 I’m currently learning Business Intelligence.
-- 💞️ I’m looking to collaborate on Different Projects
+- 💞️ I’m looking to collaborate on Different  Analytical Projects.
 - 📫 How to reach me oeriernest20@gmail.com
 
 <!---
